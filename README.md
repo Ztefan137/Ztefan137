@@ -1,43 +1,38 @@
 # 👋 Hi, I'm Stefan
 
-I’m a **game systems designer** and **C++ developer** working on *Factrix*, a factory‑automation game focused on clarity, performance, and emergent gameplay. I enjoy building clean architectures, solving complex system interactions, and refining engines that stay fast and predictable as they grow.
+I’m a **software developer** focused on building clean, scalable systems and well‑structured architectures. I enjoy designing components that interact predictably, perform efficiently, and remain easy to extend as projects grow.
 
 ---
 
 ## 🔧 What I Work On
 
-- C++ systems architecture  
-- Game engine design  
-- Rendering & performance tuning  
-- Chunk-based world systems  
-- Inventory, crafting, and entity logic  
-- UI systems and event pipelines  
-- Clean, scalable codebases
+- C++ development and systems architecture  
+- Engine and subsystem design  
+- Rendering and performance optimization  
+- Modular, maintainable codebases  
+- UI, event pipelines, and data‑driven systems  
 
 ---
 
-## 🚀 Current Project: Factrix
+## 🚀 Current Projects
 
-A factory automation game built around:
+### **Factrix — Factory Automation Game**
+A modular, performance‑focused automation game where I design and implement core systems such as rendering, chunking, inventory, crafting, and logistics.
 
-- a modular engine  
-- deterministic systems  
-- smooth rendering  
-- belts, logistics, and crafting  
-- milestone progression (Tier 0 → Tier 1)  
-- replayable 45–90 minute gameplay loops  
-
-My focus is on designing systems that are easy to extend, reason about, and maintain.
+### **Other Work**
+- Small engine prototypes  
+- System design experiments  
+- Tools and utilities for cleaner workflows  
 
 ---
 
 ## 🎯 Goals
 
-- Deliver a stable engine spine for Factrix  
+- Build robust, extensible architectures  
 - Maintain clear subsystem boundaries  
-- Avoid god‑classes and hidden coupling  
-- Achieve predictable performance under load  
-- Build a polished Tier 0 → Tier 1 experience
+- Keep performance predictable under load  
+- Deliver polished, maintainable code  
+- Explore new approaches to engine and system design  
 
 ---
 
