@@ -4,6 +4,29 @@ I’m a **software developer** focused on building clean, scalable systems and w
 
 ---
 
+
+## 🧩 Technology Stack I Use
+
+### 🖥️ Systems & Engine Development
+> ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
+> ![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)  
+> ![SFML](https://img.shields.io/badge/SFML-8CC445?logo=sfml&logoColor=white)
+
+### ⚙️ Tools & Workflow
+> ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+> ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+> ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)  
+> ![CLion](https://img.shields.io/badge/CLion-000000?logo=clion&logoColor=white)
+
+### 📚 Concepts & Areas
+> ![OOP](https://img.shields.io/badge/OOP-1E90FF)  
+> ![System Design](https://img.shields.io/badge/System%20Design-4B0082)  
+> ![Rendering](https://img.shields.io/badge/Rendering-32CD32)  
+> ![Performance](https://img.shields.io/badge/Performance-FF8C00)  
+> ![ECS](https://img.shields.io/badge/ECS%20Patterns-9400D3)
+
+---
+
 ## 🔧 What I Work On
 
 - C++ development and systems architecture  
