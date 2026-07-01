@@ -39,5 +39,4 @@ A modular, performance‑focused automation game where I design and implement co
 ## 📫 Contact
 
 - GitHub: you're already here  
-- Email: add if you want  
-- Discord: optional  
+- Email: stefandenciu83@gmail.com
