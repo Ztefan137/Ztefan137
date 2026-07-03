@@ -23,7 +23,6 @@ I’m a **software developer** focused on building clean, scalable systems and w
 > ![System Design](https://img.shields.io/badge/System%20Design-4B0082)  
 > ![Rendering](https://img.shields.io/badge/Rendering-32CD32)  
 > ![Performance](https://img.shields.io/badge/Performance-FF8C00)  
-> ![ECS](https://img.shields.io/badge/ECS%20Patterns-9400D3)
 
 ---
 
