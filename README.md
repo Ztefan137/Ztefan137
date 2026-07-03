@@ -42,6 +42,8 @@ I’m a **software developer** focused on building clean, scalable systems and w
 ### **Factrix — Factory Automation Game**
 A modular, performance‑focused automation game where I design and implement core systems such as rendering, chunking, inventory, crafting, and logistics.
 
+### **Various websites** ###
+
 ### **Other Work**
 - Small engine prototypes  
 - System design experiments  
